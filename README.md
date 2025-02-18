@@ -14,7 +14,7 @@ The project is a registration form for an event called CodeCraft Summit 2025, an
 </p>
 <br>
 <p align="center">
-  <img alt="Pratical challenge" src="gitHub/unnamed.png" width="100%">
+  <img alt="Pratical challenge" src="gitHub/thumbnail.png" width="100%">
 </p>
 
 ## 🚀 Technologies
@@ -29,16 +29,16 @@ This project is a registration form for CodeCraft Summit 2025, an event made by 
 
 The project features two main screens:
 
- Registration Screen: Where users can sign up for the event.<br>
- Confirmation Screen: Displayed after successful registration.
+ <strong>Registration Screen:</strong> Where users can sign up for the event.<br>
+ <strong>Confirmation Screen:</strong> Displayed after successful registration.
 
 The project is built using HTML, CSS, and JavaScript and is part of the NLW CONNECT - FULLSTACK TRACK.
 
-- [Access the finished project]()
+- [Access the finished project](https://andreskull2.github.io/nlw-connect-fullstack/)
 - [Watch the classes](https://www.rocketseat.com.br/formacao/fullstack)
 
 ## 🔖 Layout
-You can view the project layout through [LINK](). A Figma account is required to access it.[Figma](https://figma.com).
+You can view the project layout through [LINK](https://www.figma.com/community/file/1471120839033505457). A Figma account is required to access it.[Figma](https://figma.com).
 
 ## :memo: License
 This project is licensed under the MIT License.
