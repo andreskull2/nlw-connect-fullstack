@@ -25,7 +25,7 @@ const users = [
 
 const getUser = (userData) => {
     return users.find((user) => {
-        return user.email == userData.email
+        return user.email.toLowerCase() === userData.email.toLowerCase()
     })
 }
 
@@ -70,7 +70,7 @@ const showInvite = (userData) => {
 const saveUser = (userData) => {
     const newUser = {
         ...userData,
-        ref: Math.round(Math.random() * 4000),
+        ref: Math.round(Math.random() * 4000) + 1,
         refBy: 100
     }
 
@@ -128,7 +128,7 @@ const startApp = () => {
                     emergentes, com palestras, workshops e hackathons.
                     <br/><br/>Dias 15 a 17 de março | Das 18h às 21h | Online & Gratuito
                 </p>
-            </section
+            </section>
 
             <section class="registration">
                 <h2>Inscrição</h2>
