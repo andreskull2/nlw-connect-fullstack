@@ -14,7 +14,7 @@ The project is a registration form for an event called CodeCraft Summit 2025, an
 </p>
 <br>
 <p align="center">
-  <img alt="Pratical challenge" src="gitHub/thumbnail.png" width="100%">
+  <img alt="Pratical challenge" src="gitHub/thumbnail.jpg" width="100%">
 </p>
 
 ## 🚀 Technologies
